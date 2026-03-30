@@ -1,2 +1,2 @@
-# Python_tut-
+# Python_tut
 Методичка по python для моих учеников (ЕГЭ)
